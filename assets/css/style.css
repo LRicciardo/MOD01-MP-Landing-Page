@@ -1,0 +1,124 @@
+/* Wild card Style covers entire Webpage */
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* head element does not need to be styled with CSS */
+/* Body Element */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* header element is containder in the body */
+header {
+  /* Sets the height and width of header */
+  height: 50px;
+  width: 100%;
+  /* Sets header background color */
+  color: white;
+  /* Sets header background color */
+  background-color: #266150;
+  /* Sets border to bottom only */
+  border-bottom: 10px solid #E8CEBF;
+  position: absolute;
+
+}
+
+li {
+  display: inline;
+  list-style-type: none;
+}
+
+a {
+  color: white ;
+  text-decoration: none;
+  padding: 15px ;
+  /* position: relative; */
+  /*top: auto;
+  right: auto; */
+  font-size:15px;
+}
+
+footer {
+  text-align: center;
+  /* Sets the height and width of header */
+  height: 50px;
+  width: 100%;
+  /* Sets header background color */
+  color: white;
+  /* Sets header background color */
+  background-color: #266150;
+  /* Sets border to bottom only */
+  border-bottom: 10px solid #E8CEBF;
+  position: absolute;
+  vertical-align: text-bottom;
+}
+
+
+
+.navigation {
+  display:block;
+  position: absolute;
+  text-align: right;
+  top: 5px;
+  right: 25px;
+  font-size: 18px;
+}
+
+.box {
+  font-weight: bolder;
+  text-align: center;
+  /* width: 75px; */
+  /* height: 40px; */
+  /* padding: 60px 0; */
+  /* border: 25px solid #DDAF95; */
+  /* margin: 25px solid #504846; */
+  /* margin-left: -25px; */
+  /* margin-top: -25px; */
+  /* vertical-align: middle; */
+}
+
+
+h1 {
+  text-align: center;
+  line-height: 200px;
+  position: relative;
+  vertical-align: text-bottom;
+}
+
+h2 {
+  /* Sets bottom margin to 0 */
+  margin-bottom: 0;
+}
+
+h3 {
+  /* Sets top margin to 0 */
+  margin-top: 0;
+}
+
+.contact {
+  /* My Brother passed cookies */
+  color: white;
+  margin: 50px;
+  padding: 20px 40px;
+}
+.example-box {
+  /* Shortcut method sets top and bottom padding to 20px and left and right to 40px */
+  padding: 20px 40px;
+}
+
+.image-padding {
+  /* Sets padding on all sides to 20px */
+  padding: 20px;
+  background-color: #999900;
+}
+
+.image-border {
+  /* Sets border on all sides */
+  border: 10px solid darkblue;
+}
+
+.image-margin {
+  /* Sets all sides to 20px */
+  margin: 20px;
+}
