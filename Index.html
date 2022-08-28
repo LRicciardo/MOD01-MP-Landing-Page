@@ -10,36 +10,65 @@
   </head>
 
   <body class="body">
+      <!-- Creates the header information with navigation links -->
     <header>
         <div class="navigation">
             <ul>
-                <li><a id="github" href="#">GitHub</a></li>
-                <li><a id="portfolio" href="#" >Portfolio</a></li>
-                <li><a id="contact" href="Liane.Ricciardo@gmail.com">Contact</a></li>
+                <li>
+                    <a id="github" 
+                        href="https://github.com/LRicciardo?tab=repositories">GitHub
+                    </a>
+                </li>
+                <li>
+                    <a id="portfolio" 
+                       href="https://lricciardo.github.io/prework-study-guide/" >Portfolio
+                    </a>
+                </li>
+                <li>
+                    <a id="contact" 
+                        href="Liane.Ricciardo@gmail.com">Contact
+                    </a>
+                </li>
             </ul>
         </div>
     </header>
+    
+    <main> 
+        <section> 
+            <h1 class="title">My New Webpage</h1>
+            
+            <div class="bodbox">
+                <figure>
+                    <img src=".\assets\images\image_1.png" alt="Graphic with Coming Soon text">
+                    <figcaption>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</figcaption>
+                </figure>
+            </div>
+        </section>
 
-    <section>
-    <!--  -->
-        <h1 class="title">My New Webpage</h1>
-    </section>
+        <section class="formbox"> 
+            <h2 class="title-contact">Contact Me</h2>
+            <!--Create the place to enter user contact data-->
+            <form>
+                <ul>
+                    <li>
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="user-name">
+                    </li>
+                    <li>
+                        <label for="email">Email:</label>
+                        <input type="text" id="email" name="user-email">
+                    </li>
+                </ul>
+                <div>
+                    <button type="submit">SEND</button>
+                </div>
+            </form>
+        </section>
+    </main>
 
-    <section> 
-    <!--The lesson class is assigned to the section-->
-    <div class="box">
-        <figure>
-            <img src=".\assets\images\image_1.png" alt="Graphic with Coming Soon text">
-            <figcaption>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</figcaption>
-        </figure>
-    </div>
-    </section>
-
-        <footer>
-        <div class="end">
-            <!-- footer info -->
-            © 2022 My New Website Productions
-        </div>
+    <footer>
+        <!-- footer info -->
+        © 2022 My New Website Productions
     </footer>
 
   </body>
