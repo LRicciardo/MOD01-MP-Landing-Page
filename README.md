@@ -1,11 +1,34 @@
-# Module 01 Mini-Project: Landing Page
+# <center><font color="blue">**Module 01 Mini-Project Landing Page**</font></center>
+Created a landing page using HTML and CSS. 
 
-In this mini-project, you will build a landing page using HTML and CSS. While you will be responsible for your own landing page, you will work in a group to brainstorm and share ideas.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Instructions
+© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
-Work in your group to implement the following user stories:
+## Description<center><font color="blue">**Description**</font></center>
 
+Beginning coding bootcamp mini group activity
+
+Shortcut to GitHub Page: https://lricciardo.github.io/MOD01-MP-Landing-Page/
+Shortcut to GitHub Repo: https://github.com/LRicciardo/MOD01-MP-Landing-Page
+
+## Table of Contents
+  
+- [User Story](#userstory)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
+- [Hints](#hints)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Feature](#features)
+- [How to Contribute](#contribute)
+- [How to Test](#test)
+- [Contact Info](#contact) 
+
+## User Story
+
+```md
 * As a client, I want to view a single webpage that collects a visitor's contact information.
 
 * As a client, I want the landing page to have a header and footer.
@@ -15,9 +38,12 @@ Work in your group to implement the following user stories:
 * As a client, I want the landing page to have a contact form.
 
 * As a client, I want the landing page to have a polished and accessible UI.
+```
+
 
 ## Acceptance Criteria
 
+```md
 * It's done when the page uses semantic HTML elements.
 
 * It's done when the page uses universal, element, and class selectors in CSS.
@@ -40,29 +66,21 @@ Work in your group to implement the following user stories:
 
 * It's done when the image includes a descriptive `alt` attribute.
 
-* It's done when the page is deployed to GitHub Pages.
+* It's done when the page is deployed to GitHub Pages.  
+```
 
-## 💡 Notes
+## Visual Documentation
 
-Follow these instructions to deploy your project to GitHub Pages:
+The following is a Link to Deployed website from **Heroku**:
 
-1. Create a new repository on your GitHub account and clone it to your computer.
+![ScreenShot of Application](./assets/images/MOD01-MP-Landing-Page-Screenshot.png "Link to website")
+***
 
-2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
+## Hints
 
-3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
+💡 Refer to the documentation:
 
-4. On the Settings page, select Pages on the left side of the page. On the GitHub Pages screen, choose `main` in the dropdown under Source.
-
-5. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
-
-You can also refer to this [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) for more guidance.
-
-> **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
-
-## 💡 Hints
-
-Refer to the documentation:
+* [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg)
 
 * [MDN Web Docs on HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
@@ -80,14 +98,41 @@ Refer to the documentation:
 
 * [Full-Stack Blog HTML Cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
 
-## 🏆 Bonus
+---
 
-If you have completed this activity, work through the following challenge with your group to further your knowledge:
+## Installation
 
-* How can CSS be used to apply a different style to an `<a>` element when a cursor points at it?
+none
 
-Use [Google](https://www.google.com) or another search engine to research this.
+## Usage
+- HTML (HyperText Markup Language)
+- CSS (Cascading Style Sheets)
+
+## Credits
+
+none
+
+## License
+
+This application is using the The MIT License License. Click on the badge  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  to follow the link to the license.
 
 ---
 
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+## Features
+
+none
+
+## How to Contribute
+
+This application follows the [Contributor Covenant](https://www.contributor-covenant.org/).
+
+## Tests
+
+
+  
+## Contact Info
+
+This application follows the [Contributor Covenant](https://www.contributor-covenant.org/).
+
+If you would like to contact me about an issue, you can send an email to Liane.Ricciardo@gmail.com.
+
